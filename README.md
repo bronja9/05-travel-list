@@ -2,6 +2,8 @@
 
 Welcome to the Travel List repository! Your handy tool for managing your travel plans! 🌍
 
+![Travel List Screenshot](./public/travel-check.png)
+
 ## Description 📝
 
 Travel List is a simple React application designed to help you keep track of your travel destinations and plans. Utilizing useState for state management, it offers a straightforward solution for organizing your travel bucket list.
